@@ -20,7 +20,7 @@ function Greet() {
   };
   return (
     <div className='greetingContainer'>
-    <h1> MK KNIGHT </h1>
+    <h1> KAzi Musharraf </h1>
       <p>
         Good <span style={timeOfDayStyle}>{timeOfDay}</span>
       </p>
