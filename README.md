@@ -1,5 +1,5 @@
 # This is CLOCK REACT Website Uploaded
-# on Various Services
+# On Various Services
 
 #    BY MK KNIGHT
 
